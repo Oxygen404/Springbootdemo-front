@@ -1,7 +1,7 @@
-### SpringBoot+MyBatisPlus+Vue 前后端分离项目实现登录注册(前端)
+## SpringBoot+MyBatisPlus+Vue 前后端分离项目实现登录注册(前端)
 
 
-# vuedemo
+
 
 ## Project setup
 ```
